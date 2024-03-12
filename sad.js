@@ -4,11 +4,11 @@ let x = 20;
 let y = 500;
 
 if (a < b) {
-    inicio = a;
-    fim = b;
+    inicio = x;
+    fim = y;
 } else {
-    inicio = b;
-    fim = a;
+    inicio = y;
+    fim = x;
 }
 
 while (inicio <= fim) {
