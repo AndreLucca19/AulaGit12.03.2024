@@ -1,7 +1,7 @@
 let inicio;
 let fim;
 let a = 10;
-let b = 30;
+let b = 100;
 
 if (a < b) {
     inicio = a;
