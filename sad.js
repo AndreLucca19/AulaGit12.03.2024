@@ -8,7 +8,7 @@ if (a < b) {
     fim = b;
 } else {
     inicio = b;
-    fim = a;
+    fim = a
 }
 
 while (inicio <= fim) {
