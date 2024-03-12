@@ -1,6 +1,6 @@
 let inicio;
 let fim;
-let a = 10;
+let a = 1;
 let b = 100;
 
 if (a < b) {
