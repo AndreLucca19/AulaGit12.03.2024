@@ -12,6 +12,6 @@ if (a < b) {
 }
 
 while (inicio <= fim) {
-    console.log(inicio);
+    console.log(inicio)
     inicio++;
 }
