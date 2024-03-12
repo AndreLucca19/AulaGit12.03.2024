@@ -7,7 +7,7 @@ if (a < b) {
     inicio = a;
     fim = b;
 } else {
-    inicio = b 
+    inicio = b;
     fim = a;
 }
 
